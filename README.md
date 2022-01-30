@@ -1,0 +1,2 @@
+# BrowserBypass
+yes
